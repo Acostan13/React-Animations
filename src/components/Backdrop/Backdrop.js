@@ -8,6 +8,4 @@ const backdrop = (props) => {
     return <div className={cssClasses.join(' ')}></div>
 }
     
-
-
 export default backdrop;
